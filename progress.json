@@ -347,5 +347,14 @@
       "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787399264.396281,
+    "completed_at": 1787399268.243719,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
   }
 ]
